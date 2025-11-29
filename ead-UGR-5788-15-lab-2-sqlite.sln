@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaStoreSqlite", "PizzaStoreSqlite\PizzaStoreSqlite.csproj", "{A433E77A-AC0F-50AB-67F2-3A92E0135AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A433E77A-AC0F-50AB-67F2-3A92E0135AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A433E77A-AC0F-50AB-67F2-3A92E0135AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A433E77A-AC0F-50AB-67F2-3A92E0135AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A433E77A-AC0F-50AB-67F2-3A92E0135AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {722C8C33-4205-4B43-B2D7-F46BF4E6E08B}
+	EndGlobalSection
+EndGlobal
